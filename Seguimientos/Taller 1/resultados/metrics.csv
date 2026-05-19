@@ -1,0 +1,4 @@
+run_id,timestamp,signal_name,signal_type,fs_hz,duration_s,num_processors,num_beats,mean_rr_interval_s,mean_heart_rate_bpm,rms,num_activations,threshold_used
+run_001,2026-03-28 19:54:02,ECG_sintetica,ECG,500.0,10.0,3,12,0.8333,72.01,,,
+run_002,2026-03-28 19:54:02,ECG_sintetica_55bpm,ECG,500.0,12.0,3,11,1.091,55.0,,,
+run_003,2026-03-28 19:54:03,EMG_sintetica,EMG,1000.0,5.0,3,,,,0.284243,100,0.990147
